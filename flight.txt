@@ -1,0 +1,23 @@
+|TICKET INFORMATION:
+
+Name: AZMI RAEEN
+Phone: 9917894087
+Address: Najibabad
+Passport Number: 
+Origin: MUMBAI
+Destination: GOA
+Food: Vegetarian
+Number of Seats: 2
+Class: Business
+Date of departure: 1
+Time: 4.00 PM
+Ticket: HF582
+Bill(in indian rupees): 152404/-
+
+|STATUS CONFIRMED
+
+Pick'n Drop: YES
+
+Pickup Location: 
+Drop Off: MUMBAI Airport
+Fare: 300/-
